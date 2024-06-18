@@ -1,1 +1,2 @@
 # Condiciones
+- **Deploy del desafio:**
